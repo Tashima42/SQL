@@ -1,3 +1,4 @@
+# Insert a registy in a table 
 INSERT INTO tbProducts (
 	PRODUCT, 
     NAME,

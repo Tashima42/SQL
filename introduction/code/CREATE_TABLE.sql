@@ -1,3 +1,4 @@
+# Create a new table in an database
 create table tbProducts (
 	PRODUCT VARCHAR(20),
     NAME VARCHAR(150),
