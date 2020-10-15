@@ -1,7 +1,7 @@
 create table tbProducts (
 	PRODUCT VARCHAR(20),
     NAME VARCHAR(150),
-    COVER VARCHAR(50),
+    PACKAGE VARCHAR(50),
     SIZE VARCHAR(50),
     PRICE_LIST FLOAT
 );
